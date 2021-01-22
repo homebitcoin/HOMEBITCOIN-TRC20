@@ -1,4 +1,4 @@
-# <img src="Logo/hbtc.png" alt="HBTC" width="100px">
+# <img src="logo/hbtc.png" alt="HBTC" width="100px">
 
 Token ERC20 utility to be distributed among Homeland Community Indonesia.
 
